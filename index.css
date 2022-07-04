@@ -59,6 +59,7 @@ input{
     padding: 8px;
     border: 1px solid grey;
     position: relative;
+    outline: none;
 }
 button{
     background-color: rgb(35, 172, 35);
